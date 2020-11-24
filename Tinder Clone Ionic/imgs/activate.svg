@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="230px" viewBox="0 0 176 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>items 1</title>
+    <defs>
+        <linearGradient x1="100%" y1="46.0695257%" x2="0%" y2="53.9304743%" id="linearGradient-1">
+            <stop stop-color="#FF8960" offset="0%"></stop>
+            <stop stop-color="#FF62A5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF8960" offset="0%"></stop>
+            <stop stop-color="#FF62A5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="20" cy="20" r="20"></circle>
+        <filter x="-18.8%" y="-13.8%" width="137.5%" height="137.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.128113678 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.89934816,17.2317808 C4.90311456,14.132935 6.29285097,11.1982385 8.68779539,9.23174391 C9.17705384,8.88794067 9.54069188,9.23174391 9.39523667,9.48298474 C7.80845249,13.3309364 8.96548262,17.1061604 11.6564041,17.8664945 C10.8237216,15.833191 10.5079708,13.6252072 10.7373916,11.4400186 C11.0723171,8.26399165 12.5899398,5.3302359 14.9886509,3.22179883 C15.1345999,3.05385439 15.3417972,2.95144652 15.5638602,2.9375 L15.5638602,2.9375 C15.6434375,2.94489556 15.7139091,2.99194935 15.7512416,3.06261436 C15.788574,3.13327936 15.7877254,3.21801178 15.748985,3.28791484 C15.564287,3.95607047 15.4425431,4.64004934 15.3853469,5.33089947 C15.0895707,8.00253277 15.6350469,10.699866 16.9456847,13.0466375 C18.8366025,13.0466375 19.6366062,10.7788585 19.8481774,9.20529751 C19.8481774,8.82843626 20.1192531,8.57719544 20.6680159,9.01356109 C23.2316922,10.9535768 24.7369852,13.983744 24.7341504,17.1987228 C24.8421034,20.8084667 22.9801024,24.1917704 19.8727674,26.0319809 C16.7654324,27.8721913 12.9036,27.8786277 9.79014823,26.0487852 C6.6766965,24.2189428 4.80342823,20.8418645 4.89934816,17.2317808 L4.89934816,17.2317808 Z" id="path-5"></path>
+    </defs>
+    <g id="Dating_App-iPhoneX-Dark-Mode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nearby-/-Spotlight" transform="translate(-8.000000, -154.000000)">
+            <g id="Contents">
+                <g id="col-1-[8v]" transform="translate(8.000000, 154.000000)">
+                    <g id="items-1">
+                        <rect id="Rectangle-3-Copy" fill-opacity="0.9" fill="#FFFFFF" x="8" y="8" width="161" height="214" rx="4"></rect>
+                        <text id="Ponte-de-primero-en" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" letter-spacing="-0.3617647" fill="#262628">
+                            <tspan x="34.6004164" y="116">Ponte de primero</tspan>
+                            <tspan x="44.4457347" y="134">en búsquedas</tspan>
+                        </text>
+                        <rect id="Rectangle-4" fill="url(#linearGradient-1)" x="33" y="157" width="107" height="30" rx="15"></rect>
+                        <text id="Activar" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" line-spacing="22" letter-spacing="-0.3617647" fill="#FFFFFF">
+                            <tspan x="64.982485" y="174">Activar</tspan>
+                        </text>
+                        <g id="Group" transform="translate(68.000000, 46.000000)">
+                            <g id="Oval-4">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use stroke="#FFFFFF" stroke-width="1" fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="icons/fire" transform="translate(5.625000, 4.375000)">
+                                <rect id="Rectangle" fill-opacity="0" fill="#FF0000" fill-rule="evenodd" x="0" y="0" width="29.375" height="29.375"></rect>
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="hot_icon" fill="#9B9B9B" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <g id="color/White" mask="url(#mask-6)" fill="#FFFFFF" fill-rule="evenodd">
+                                    <rect x="0" y="0" width="29.375" height="29.375"></rect>
+                                    <rect x="0" y="0" width="29.375" height="29.375"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
